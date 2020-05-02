@@ -1,0 +1,3 @@
+[submodule "countries-regions-cities"]
+	path = countries-regions-cities
+	url = https://github.com/prograhammer/countries-regions-cities

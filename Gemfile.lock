@@ -3,6 +3,7 @@ GEM
   specs:
     ast (2.4.0)
     jaro_winkler (1.5.4)
+    mysql2 (0.5.3)
     parallel (1.19.1)
     parser (2.7.0.3)
       ast (~> 2.4.0)
@@ -23,6 +24,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  mysql2
   rubocop
 
 BUNDLED WITH

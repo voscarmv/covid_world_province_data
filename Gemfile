@@ -1,2 +1,5 @@
 source 'https://rubygems.org'
 gem 'rubocop'
+gem 'mysql2'
+gem 'nokogiri'
+gem 'httparty'
